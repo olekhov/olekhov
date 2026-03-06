@@ -4,8 +4,8 @@ Cyrillic: Олехов Василий Леонидович
 
 I am a developer, cryptographer, DIY tinkerer and teacher.
 
-Currently I work for [=nil; Foundation](https://nil.foundation), I
-contribute under @vo-nil user there.
+I worked for [=nil; Foundation](https://nil.foundation), I
+contributed under [vo-nil](https://github.com/vo-nil) user there.
 
 ## Contacts
 
